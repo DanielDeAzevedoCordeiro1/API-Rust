@@ -15,7 +15,6 @@ Uma API REST simples construída com Rust e Axum para gerenciar usuários em mem
 ```bash
 # Clonar o repositório
 git clone https://github.com/DanielDeAzevedoCordeiro1/API-Rust
-cd crud
 
 # Compilar
 cargo build
